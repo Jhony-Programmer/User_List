@@ -1,0 +1,23 @@
+body{
+    max-width: 80%;
+    margin: auto;
+
+}
+
+ul img{
+    max-height: 100px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+}
+
+li{
+    background-color: rgb(119, 116, 116);
+    color: white;
+   
+    text-align: center;
+    padding: 20px;
+    border-radius: 10%;
+}
